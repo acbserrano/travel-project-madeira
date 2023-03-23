@@ -260,13 +260,13 @@ footer p {
 }
 
 footer a {
-  color: aliceblue;
+  color: rgb(125, 146, 165);
 }
 
 footer .info {
   padding: 200px 50px 0 0;
   font-size: 13px;
-  color: aliceblue;
+  color: rgb(125, 146, 165);
   max-width: 600px;
   line-height: 1.5;
 }
